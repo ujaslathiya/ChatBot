@@ -2,7 +2,7 @@ AI-Powered ChatBot for Cloud Kitchen Websites
 
 Overview
 
-    Welcome to the AI-Powered ChatBot repository designed for Cloud Kitchen Websites. This full-stack application enables users to seamlessly order food and track their orders using natural language processing (NLP) capabilities. The project integrates Dialogflow for chatbot functionality, a MySQL database for data storage, and FAST API for the backend.
+   Welcome to the AI-Powered ChatBot repository designed for Cloud Kitchen Websites. This full-stack application enables users to seamlessly order food and track their orders using natural language processing (NLP) capabilities. The project integrates Dialogflow for chatbot functionality, a MySQL database for data storage, and FAST API for the backend.
 
 Features
 
